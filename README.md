@@ -28,7 +28,7 @@
 
 ---
 
-✨ **Open to opportunities in Product Management, Tech Operations roles & ML Engineering!**
+✨ **Open to opportunities in Product Management, Tech Operations & ML Engineering roles!**
 
 <!--
 **SonjaX1927/SonjaX1927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
