@@ -1,19 +1,20 @@
 ## Hi, I'm Sonja 👋
 
 🎓 Master's student in Computer Engineering @ TU Berlin
+
 💡 I'm passionate about building AI-powered products that solve real problems — from intelligent agents to computer vision systems.
 
 ### What I Do
 
-🤖 **AI & Machine Learning** — Deep learning, computer vision, NLP, remote sensing (SAR/EO)
-🛠️ **Full Stack Development** — Python, TypeScript, React, Node.js, REST APIs
-📊 **Data & Analytics** — SQL, Tableau, Google Analytics
-☁️ **DevOps** — Docker, Kubernetes, Git, Linux
+* 🤖 **AI & Machine Learning** — Deep learning, computer vision, NLP, remote sensing (SAR/EO)
+* 🛠️ **Full Stack Development** — Python, TypeScript, React, Node.js, REST APIs
+* 📊 **Data & Analytics** — SQL, Tableau, Google Analytics
+* ☁️ **DevOps** — Docker, Kubernetes, Git, Linux
 
 ### Experience
 
-**AI Product Manager Intern @ Beijing Guoke Zhongan Technology** — Built ReAct agents for enterprise knowledge retrieval and contributed to automation initiatives that streamlined team workflows.
-**Tech Lead @ National Innovation Competition** — Built an AR campus app with 3D map interactions on Android (1st prize).
+* **AI Product Manager Intern @ Beijing Guoke Zhongan Technology** — Built ReAct agents for enterprise knowledge retrieval and contributed to automation initiatives that streamlined team workflows.
+* **Tech Lead @ National Innovation Competition** — Built an AR campus app with 3D map interactions on Android (1st prize).
 
 ### Currently Working On
 
@@ -22,6 +23,7 @@
 ### Let's Connect
 
 📫 siyux1927@gmail.com  
+
 🔗 [LinkedIn](https://linkedin.com/in/sonja-xiao-37347a241) · [Portfolio](https://sonjax20githubio.vercel.app)
 
 ---
